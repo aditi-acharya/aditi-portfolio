@@ -64,7 +64,7 @@ const Experience = () => {
               <p className="text-base text-gray-300 mb-1">{exp.company}</p>
               <p className="text-base text-gray-400 mb-4">{exp.date}</p>
               <p className="text-gray-200 leading-relaxed mb-4">{exp.description}</p>
-              <ul className="list-disc list-inside text-gray-400 space-y-1 mb-4">
+              <ul className="list-disc list-inside text-gray-300 space-y-1 mb-4">
                 {exp.responsibilities.map((item, i) => (
                   <li key={i}>{item}</li>
                 ))}

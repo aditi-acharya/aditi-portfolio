@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className="App min-h-screen bg-gradient-to-br from-[#30133b] via-[#551a55] to-[#d9adff] text-white font-mono">
+    <div className="App min-h-screen bg-gradient-to-br from-[#190b23] via-[#520d67] to-[#1A002D] text-white font-mono">
       <Navbar />
 
       <main className="pt-20">
