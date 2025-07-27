@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aditi-portfolio/static/css/main.93f8e226.css",
+    "main.js": "/aditi-portfolio/static/js/main.ff8993b5.js",
+    "static/media/AditiPAcharya-Resume.pdf": "/aditi-portfolio/static/media/AditiPAcharya-Resume.d1939dbed1eb61fc2aa9.pdf",
+    "index.html": "/aditi-portfolio/index.html",
+    "main.93f8e226.css.map": "/aditi-portfolio/static/css/main.93f8e226.css.map",
+    "main.ff8993b5.js.map": "/aditi-portfolio/static/js/main.ff8993b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f8e226.css",
+    "static/js/main.ff8993b5.js"
+  ]
+}
